@@ -1,6 +1,6 @@
 ##SpendWise
 
-Welcome to *SpendWise**, an expense management system designed to help you track and manage your expenses efficiently. This repository contains the full codebase for SpendWise, organised into two main folders: `backend` and `frontend`. Each folder has its own `README.md` file with specific setup and run instructions.
+Welcome to *SpendWise*, an expense management system designed to help you track and manage your expenses efficiently. This repository contains the full codebase for SpendWise, organised into two main folders: `backend` and `frontend`. Each folder has its own `README.md` file with specific setup and run instructions.
 
 
 ## Project Structure
